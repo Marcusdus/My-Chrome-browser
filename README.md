@@ -12,3 +12,6 @@ PyQt5 is cross-platform GUI toolkit, a set of python bindings for Qt v5. One can
 
 
 Youtube video: https://youtu.be/Yzdt_7p_20o
+
+![vlcsnap-2021-03-08-17h54m20s797](https://user-images.githubusercontent.com/63025671/110347190-09bffb80-8039-11eb-92a4-11f7cb6d7927.png)
+
