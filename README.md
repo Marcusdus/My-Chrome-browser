@@ -6,6 +6,6 @@ A web browser (commonly referred to as a browser) is a software application for 
 
 In this project we will see how we can create a browser using PyQt5.
 
-Install this  : pip install PyQt5 
+Install this python library : pip install PyQt5 
 
 PyQt5 is cross-platform GUI toolkit, a set of python bindings for Qt v5. One can develop an interactive desktop application with so much ease because of the tools and simplicity provided by this library
